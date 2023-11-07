@@ -1,5 +1,3 @@
-# Hello Everyone
-
 ## Profile
 
 ```python
