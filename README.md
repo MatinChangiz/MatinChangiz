@@ -30,3 +30,9 @@ class Profile:
         self.love = "Coding ..."
         self.dark_mode = False
 me = Profile()
+
+# GitHub Stats
+
+- Total Contributions: <!--START_SECTION:total_contributions-->Loading...<!--END_SECTION:total_contributions-->
+- Followers: <!--START_SECTION:followers-->Loading...<!--END_SECTION:followers-->
+- Repositories: <!--START_SECTION:public_repos-->Loading...<!--END_SECTION:public_repos-->
