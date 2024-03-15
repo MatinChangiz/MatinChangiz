@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
-![GitHub Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
+![Profile Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
 ## Profile
 
 ```python
