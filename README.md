@@ -18,9 +18,21 @@
 
 ## GitHub Activity
 
-- Total Contributions: <!--START_SECTION:total_contributions-->Loading...<!--END_SECTION:total_contributions-->
-- Current Streak: <!--START_SECTION:current_streak-->Loading...<!--END_SECTION:current_streak--> (as of <!--START_SECTION:current_streak_start_date-->Loading...<!--END_SECTION:current_streak_start_date--> - <!--START_SECTION:current_streak_end_date-->Loading...<!--END_SECTION:current_streak_end_date-->)
-- Longest Streak: <!--START_SECTION:longest_streak-->Loading...<!--END_SECTION:longest_streak--> (from <!--START_SECTION:longest_streak_start_date-->Loading...<!--END_SECTION:longest_streak_start_date--> - <!--START_SECTION:longest_streak_end_date-->Loading...<!--END_SECTION:longest_streak_end_date-->)
+const fetchGitHubData = async () => {
+  const response = await fetch('https://api.github.com/users/YourGitHubUsername');
+  const data = await response.json();
+
+  const totalContributions = data.contributions;
+  const currentStreak = data.streak.current;
+  const longestStreak = data.streak.longest;
+
+  document.querySelector('#README').innerHTML = document.querySelector('#README').innerHTML
+    .replace('<!--TOTAL_CONTRIBUTIONS-->', totalContributions)
+    .replace('<!--CURRENT_STREAK-->', currentStreak)
+    .replace('<!--LONGEST_STREAK-->', longestStreak);
+};
+
+fetchGitHubData();
 
 
 
