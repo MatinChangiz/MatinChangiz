@@ -18,6 +18,21 @@
 <h1 align="center">I'm Martin (马丁)</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+## Profile
+
+```python
+class Profile:
+    def __init__(self):
+        self.name = "Martin 马丁"
+        self.company = "Development Seed"
+        self.role = "Software Engineer"
+        self.code = ["PHP", "Javascript", "Python"]
+        self.tools = ["Laravel", "Codeigniter", "WordPress"]
+        self.use = ["vscode", "pycharm", "NuSphere"]
+        self.love = "Coding ..."
+        self.dark_mode = False
+me = Profile()```
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matinchangiz" alt="matinchangiz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -33,18 +48,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinchangiz&show_icons=true&locale=en&layout=compact" alt="matinchangiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matinchangiz&show_icons=true&locale=en" alt="matinchangiz" /></p>
-
-## Profile
-
-```python
-class Profile:
-    def __init__(self):
-        self.name = "Martin 马丁"
-        self.company = "Development Seed"
-        self.role = "Software Engineer"
-        self.code = ["PHP", "Javascript", "Python"]
-        self.tools = ["Laravel", "Codeigniter", "WordPress"]
-        self.use = ["vscode", "pycharm", "NuSphere"]
-        self.love = "Coding ..."
-        self.dark_mode = False
-me = Profile()
