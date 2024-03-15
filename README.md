@@ -16,6 +16,13 @@
 ![API](https://img.shields.io/badge/API-API-FF7B00?logo=api&logoColor=white)
 
 
+## GitHub Activity
+
+- Total Contributions: <!--START_SECTION:total_contributions-->Loading...<!--END_SECTION:total_contributions-->
+- Current Streak: <!--START_SECTION:current_streak-->Loading...<!--END_SECTION:current_streak--> (as of <!--START_SECTION:current_streak_start_date-->Loading...<!--END_SECTION:current_streak_start_date--> - <!--START_SECTION:current_streak_end_date-->Loading...<!--END_SECTION:current_streak_end_date-->)
+- Longest Streak: <!--START_SECTION:longest_streak-->Loading...<!--END_SECTION:longest_streak--> (from <!--START_SECTION:longest_streak_start_date-->Loading...<!--END_SECTION:longest_streak_start_date--> - <!--START_SECTION:longest_streak_end_date-->Loading...<!--END_SECTION:longest_streak_end_date-->)
+
+
 
 ## Profile
 
