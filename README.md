@@ -14,4 +14,4 @@ class Profile:
 me = Profile()
 
 
-[![Profile Views][1]](https://github.com/MatinChangiz)
+[![Profile Views][]](https://github.com/MatinChangiz)
