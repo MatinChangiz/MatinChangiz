@@ -1,9 +1,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
 ![Profile Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
-# Used Languages
-
-<!--START_SECTION:languages-->
-<!--END_SECTION:languages-->
+## Used Languages
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)
+![Language](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Language](https://img.shields.io/badge/Language-HTML-orange?logo=html5)
 ## Profile
 
 ```python
