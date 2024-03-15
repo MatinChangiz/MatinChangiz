@@ -16,29 +16,6 @@
 ![API](https://img.shields.io/badge/API-API-FF7B00?logo=api&logoColor=white)
 
 
-## GitHub Activity
-
-- Total Contributions: <!--TOTAL_CONTRIBUTIONS-->
-- Current Streak: <!--CURRENT_STREAK-->
-- Longest Streak: <!--LONGEST_STREAK-->
-const fetchGitHubData = async () => {
-  const response = await fetch('https://api.github.com/users/YourGitHubUsername');
-  const data = await response.json();
-
-  const totalContributions = data.contributions;
-  const currentStreak = data.streak.current;
-  const longestStreak = data.streak.longest;
-
-  document.querySelector('#README').innerHTML = document.querySelector('#README').innerHTML
-    .replace('<!--TOTAL_CONTRIBUTIONS-->', totalContributions)
-    .replace('<!--CURRENT_STREAK-->', currentStreak)
-    .replace('<!--LONGEST_STREAK-->', longestStreak);
-};
-
-fetchGitHubData();
-
-
-
 ## Profile
 
 ```python
