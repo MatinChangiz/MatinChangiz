@@ -15,30 +15,6 @@
 ![RSS](https://img.shields.io/badge/RSS-RSS-FFA500?logo=rss&logoColor=white)
 ![API](https://img.shields.io/badge/API-API-FF7B00?logo=api&logoColor=white)
 
-# GitHub Stats
-
-- Total Contributions: <!--START_SECTION:total_contributions-->Loading...<!--END_SECTION:total_contributions-->
-- Followers: <!--START_SECTION:followers-->Loading...<!--END_SECTION:followers-->
-- Repositories: <!--START_SECTION:public_repos-->Loading...<!--END_SECTION:public_repos-->
-
-## Profile
-
-```python
-class Profile:
-    def __init__(self):
-        self.name = "Martin 马丁"
-        self.company = "Development Seed"
-        self.role = "Software Engineer"
-        self.code = ["PHP", "Javascript", "Python"]
-        self.tools = ["Laravel", "Codeigniter", "WordPress"]
-        self.use = ["vscode", "pycharm", "NuSphere"]
-        self.love = "Coding ..."
-        self.dark_mode = False
-me = Profile()
-
-
-
-
 <h1 align="center">Hi 👋, I'm Martin (马丁)</h1>
 <h3 align="center">A passionate full stack developer from Afghanistan</h3>
 
@@ -59,3 +35,18 @@ me = Profile()
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matinchangiz&show_icons=true&locale=en&layout=compact" alt="matinchangiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matinchangiz&show_icons=true&locale=en" alt="matinchangiz" /></p>
+
+## Profile
+
+```python
+class Profile:
+    def __init__(self):
+        self.name = "Martin 马丁"
+        self.company = "Development Seed"
+        self.role = "Software Engineer"
+        self.code = ["PHP", "Javascript", "Python"]
+        self.tools = ["Laravel", "Codeigniter", "WordPress"]
+        self.use = ["vscode", "pycharm", "NuSphere"]
+        self.love = "Coding ..."
+        self.dark_mode = False
+me = Profile()
