@@ -20,7 +20,7 @@
 
 ## Profile
 
-python
+```````python
 class Profile:
     def __init__(self):
         self.name = "Martin 马丁"
