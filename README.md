@@ -20,7 +20,7 @@
 
 ## Profile
 
-```python
+python
 class Profile:
     def __init__(self):
         self.name = "Martin 马丁"
@@ -31,7 +31,7 @@ class Profile:
         self.use = ["vscode", "pycharm", "NuSphere"]
         self.love = "Coding ..."
         self.dark_mode = False
-me = Profile()```
+me = Profile()
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matinchangiz" alt="matinchangiz" /></a> </p>
 
