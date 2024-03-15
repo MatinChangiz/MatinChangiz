@@ -1,3 +1,6 @@
+<h1 align="center">I'm Martin (马丁)</h1>
+<h3 align="center">A passionate full stack developer</h3>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
 ![Profile Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
 ## Used Languages and Technologies
@@ -14,9 +17,6 @@
 ![AJAX](https://img.shields.io/badge/AJAX-AJAX-0096D6?logo=ajax&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-RSS-FFA500?logo=rss&logoColor=white)
 ![API](https://img.shields.io/badge/API-API-FF7B00?logo=api&logoColor=white)
-
-<h1 align="center">I'm Martin (马丁)</h1>
-<h3 align="center">A passionate full stack developer</h3>
 
 ## Profile
 
