@@ -1,4 +1,4 @@
-[![Profile Views][]](https://github.com/MatinChangiz)
+[![Profile Views][100]](https://github.com/MatinChangiz)
 ## Profile
 
 ```python
