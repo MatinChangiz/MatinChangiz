@@ -34,7 +34,7 @@ class Profile:
 me = Profile()
 ```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matinchangiz&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=matinchangiz&theme=matrix)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
