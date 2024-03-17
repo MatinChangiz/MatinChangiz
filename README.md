@@ -34,11 +34,7 @@ class Profile:
 me = Profile()
 ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matinchangiz" alt="matinchangiz" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matinchangiz&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=matinchangiz&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
