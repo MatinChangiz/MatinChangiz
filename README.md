@@ -1,5 +1,5 @@
 <h1 align="center">I'm Martin (马丁)</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Passionate full stack developer</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
 ![Profile Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
