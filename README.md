@@ -1,4 +1,4 @@
-<h1 align="center">I'm Martin (马丁)</h1>
+<h1 align="center">I'm Matin (马丁)</h1>
 <h3 align="center">Passionate full stack developer</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
