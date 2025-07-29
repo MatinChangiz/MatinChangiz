@@ -27,7 +27,7 @@ class Profile:
         self.company = "Development Seed"
         self.role = "Software Engineer"
         self.code = ["PHP", "Javascript", "Python"]
-        self.tools = ["Laravel", "Codeigniter", "WordPress"]
+        self.tools = ["Laravel", "Codeigniter", "WordPress","odoo"]
         self.use = ["vscode", "pycharm", "NuSphere"]
         self.love = "Coding ..."
         self.dark_mode = False
