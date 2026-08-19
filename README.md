@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matin Changiz
+# Matin 马丁
 
 ### Software Engineer | Full-stack Web Developer
 
@@ -37,9 +37,17 @@ I am a software engineer at **Development Seed** focused on full-stack developme
 ## GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatinChangiz&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinChangiz&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+    <a href="https://github.com/MatinChangiz?tab=overview">
+        <img src="https://img.shields.io/badge/View%20contributions-GitHub%20Overview-24292f?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions" />
+    </a>
+    <a href="https://github.com/MatinChangiz?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore%20projects-Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    </a>
 </div>
+
+<p align="center">
+    <a href="https://github.com/MatinChangiz">Follow my work on GitHub</a> and see my contribution graph, pinned projects, and latest activity.
+</p>
 
 ## Connect
 
