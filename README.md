@@ -1,39 +1,46 @@
-<h1 align="center">I'm Matin (马丁)</h1>
-<h3 align="center">Passionate full stack developer</h3>
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz)](https://github.com/MatinChangiz)
-![Profile Status](https://img.shields.io/static/v1?label=GitHub%20Status&message=Active&color=brightgreen)
-## Used Languages and Technologies
+# Matin Changiz
 
-![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Laravel-FF2D20?logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-CodeIgniter-F05032?logo=codeigniter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Python-3776AB?logo=python&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-WordPress-21759B?logo=wordpress&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-Materialize-EE6E73?logo=materialize&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-jQuery-0769AD?logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-AJAX-0096D6?logo=ajax&logoColor=white)
-![RSS](https://img.shields.io/badge/RSS-RSS-FFA500?logo=rss&logoColor=white)
-![API](https://img.shields.io/badge/API-API-FF7B00?logo=api&logoColor=white)
+### Software Engineer | Full-stack Web Developer
 
-## Profile
+Building reliable, practical web products with PHP, Laravel, Python, and JavaScript.
 
-```python
-class Profile:
-    def __init__(self):
-        self.name = "Martin 马丁"
-        self.company = "Development Seed"
-        self.role = "Software Engineer"
-        self.code = ["PHP", "Javascript", "Python"]
-        self.tools = ["Laravel", "Codeigniter", "WordPress","odoo"]
-        self.use = ["vscode", "pycharm", "NuSphere"]
-        self.love = "Coding ..."
-        self.dark_mode = False
-me = Profile()
-```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aziz-matin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-matin" height="30" width="40" /></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=MatinChangiz&style=flat-square&color=0e75b6)](https://github.com/MatinChangiz)
+[![GitHub followers](https://img.shields.io/github/followers/MatinChangiz?style=flat-square&color=0e75b6)](https://github.com/MatinChangiz?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-matin)
+
+</div>
+
+## About
+
+I am a software engineer at **Development Seed** focused on full-stack development and maintainable web applications. I enjoy turning complex requirements into clear, useful products, from backend APIs and business logic to responsive interfaces and integrations.
+
+- Developing web applications with Laravel, CodeIgniter, WordPress, and Odoo
+- Designing and integrating APIs, AJAX workflows, and data-driven features
+- Working across the stack with a focus on clean code and dependable delivery
+- Open to collaborating on thoughtful products and interesting engineering challenges
+
+## Technology
+
+<p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,javascript,html,css" alt="PHP, Laravel, Python, JavaScript, HTML, and CSS" />
 </p>
+<p>
+    <img src="https://skillicons.dev/icons?i=wordpress,bootstrap,jquery,git,github,vscode" alt="WordPress, Bootstrap, jQuery, Git, GitHub, and VS Code" />
+</p>
+
+**Frameworks and platforms:** Laravel, CodeIgniter, WordPress, Odoo, Materialize
+
+**Web and integration:** REST APIs, AJAX, RSS
+
+## GitHub Activity
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MatinChangiz&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinChangiz&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+</div>
+
+## Connect
+
+The best place to reach me is [LinkedIn](https://linkedin.com/in/aziz-matin). You can also explore my [repositories](https://github.com/MatinChangiz?tab=repositories) to see what I am building.
